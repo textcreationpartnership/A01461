@@ -38,7 +38,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-De vera obedientia.An oration made in Latine / by the right Reuerēde father in God Stephā bishop o
+
 1. The Contentes of Wynchesters boke.
 
 1. The Preface of the trāslatour to ye gentil reader.
@@ -91,32 +91,28 @@ There are 295 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|7||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|7||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|3||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|7||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|7||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|3||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -124,18 +120,15 @@ There are 295 **ommitted** fragments!
 |No|element name|occ|attributes|
 |---|---|---|---|
 |1.|__argument__|1||
-|2.|__back__|1||
-|3.|__body__|1||
-|4.|__desc__|295||
-|5.|__div__|7| @__type__ (7) : title_page (1), contents (1), translators_preface (1), to_the_reader (2), oration (1), commentary (1)|
-|6.|__front__|1||
-|7.|__g__|1548| @__ref__ (1548) : char:EOLunhyphen (59), char:cmbAbbrStroke (885), char:EOLhyphen (604)|
-|8.|__gap__|295| @__reason__ (295) : illegible (272), illegible: in gutter (20), illegible: missing (3)  •  @__resp__ (272) : #APEX (272)  •  @__extent__ (295) : 1 word (252), 2 words (12), 1 letter (22), 4 words (1), 3 words (5), 8 words (1), 5 words (1), 2 letters (1)|
-|9.|__head__|6||
-|10.|__hi__|485| @__rend__ (413) : sup (413)|
-|11.|__item__|9||
-|12.|__list__|1||
-|13.|__note__|192| @__place__ (192) : margin (192)  •  @__n__ (1) : (.) (1)|
-|14.|__p__|95||
-|15.|__pb__|122| @__facs__ (122) : tcp:3015:1 (2), tcp:3015:2 (2), tcp:3015:3 (2), tcp:3015:4 (2), tcp:3015:5 (2), tcp:3015:6 (2), tcp:3015:7 (2), tcp:3015:8 (2), tcp:3015:9 (2), tcp:3015:10 (2), tcp:3015:11 (2), tcp:3015:12 (2), tcp:3015:13 (2), tcp:3015:14 (2), tcp:3015:15 (2), tcp:3015:16 (2), tcp:3015:17 (2), tcp:3015:18 (2), tcp:3015:19 (2), tcp:3015:20 (2), tcp:3015:21 (2), tcp:3015:22 (2), tcp:3015:23 (2), tcp:3015:24 (2), tcp:3015:25 (2), tcp:3015:26 (2), tcp:3015:27 (2), tcp:3015:28 (2), tcp:3015:29 (2), tcp:3015:30 (2), tcp:3015:31 (2), tcp:3015:32 (2), tcp:3015:33 (2), tcp:3015:34 (2), tcp:3015:35 (2), tcp:3015:36 (2), tcp:3015:37 (2), tcp:3015:38 (2), tcp:3015:39 (2), tcp:3015:40 (2), tcp:3015:41 (2), tcp:3015:42 (2), tcp:3015:43 (2), tcp:3015:44 (2), tcp:3015:45 (2), tcp:3015:46 (2), tcp:3015:47 (2), tcp:3015:48 (2), tcp:3015:49 (2), tcp:3015:50 (2), tcp:3015:51 (2), tcp:3015:52 (2), tcp:3015:53 (2), tcp:3015:54 (2), tcp:3015:55 (2), tcp:3015:56 (2), tcp:3015:57 (2), tcp:3015:58 (2), tcp:3015:59 (2), tcp:3015:60 (2), tcp:3015:61 (2)  •  @__rendition__ (12) : simple:additions (12)|
-|16.|__trailer__|3||
+|2.|__desc__|295||
+|3.|__div__|7| @__type__ (7) : title_page (1), contents (1), translators_preface (1), to_the_reader (2), oration (1), commentary (1)|
+|4.|__g__|1548| @__ref__ (1548) : char:EOLunhyphen (59), char:cmbAbbrStroke (885), char:EOLhyphen (604)|
+|5.|__gap__|295| @__reason__ (295) : illegible (272), illegible: in gutter (20), illegible: missing (3)  •  @__resp__ (272) : #APEX (272)  •  @__extent__ (295) : 1 word (252), 2 words (12), 1 letter (22), 4 words (1), 3 words (5), 8 words (1), 5 words (1), 2 letters (1)|
+|6.|__head__|6||
+|7.|__hi__|485| @__rend__ (413) : sup (413)|
+|8.|__item__|9||
+|9.|__list__|1||
+|10.|__note__|192| @__place__ (192) : margin (192)  •  @__n__ (1) : (.) (1)|
+|11.|__p__|95||
+|12.|__pb__|122| @__facs__ (122) : tcp:3015:1 (2), tcp:3015:2 (2), tcp:3015:3 (2), tcp:3015:4 (2), tcp:3015:5 (2), tcp:3015:6 (2), tcp:3015:7 (2), tcp:3015:8 (2), tcp:3015:9 (2), tcp:3015:10 (2), tcp:3015:11 (2), tcp:3015:12 (2), tcp:3015:13 (2), tcp:3015:14 (2), tcp:3015:15 (2), tcp:3015:16 (2), tcp:3015:17 (2), tcp:3015:18 (2), tcp:3015:19 (2), tcp:3015:20 (2), tcp:3015:21 (2), tcp:3015:22 (2), tcp:3015:23 (2), tcp:3015:24 (2), tcp:3015:25 (2), tcp:3015:26 (2), tcp:3015:27 (2), tcp:3015:28 (2), tcp:3015:29 (2), tcp:3015:30 (2), tcp:3015:31 (2), tcp:3015:32 (2), tcp:3015:33 (2), tcp:3015:34 (2), tcp:3015:35 (2), tcp:3015:36 (2), tcp:3015:37 (2), tcp:3015:38 (2), tcp:3015:39 (2), tcp:3015:40 (2), tcp:3015:41 (2), tcp:3015:42 (2), tcp:3015:43 (2), tcp:3015:44 (2), tcp:3015:45 (2), tcp:3015:46 (2), tcp:3015:47 (2), tcp:3015:48 (2), tcp:3015:49 (2), tcp:3015:50 (2), tcp:3015:51 (2), tcp:3015:52 (2), tcp:3015:53 (2), tcp:3015:54 (2), tcp:3015:55 (2), tcp:3015:56 (2), tcp:3015:57 (2), tcp:3015:58 (2), tcp:3015:59 (2), tcp:3015:60 (2), tcp:3015:61 (2)  •  @__rendition__ (12) : simple:additions (12)|
+|13.|__trailer__|3||
